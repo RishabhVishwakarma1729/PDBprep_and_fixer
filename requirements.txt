@@ -1,0 +1,4 @@
+streamlit
+biopython
+openmm
+pdbfixer @ https://github.com/openmm/pdbfixer/archive/refs/heads/master.zip
